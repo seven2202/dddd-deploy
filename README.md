@@ -2,7 +2,8 @@
 dddd的部署
 
 ## 更新日志
-- 202503015 first commit
+- 20250321 支持网关，填入chatproxy中
+- 20250315 first commit
 ## 快速部署 
 **务必**前往`docker-compose.yml`文件修改相关配置
 
